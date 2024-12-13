@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../WebDev/xuexi"
+		},
+		{
+			"path": "../../WebDev/kecheng2"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"sandcastle.vscode-open",
+			"ms-ceintl.vscode-language-pack-zh-hans"
+		]
+	}
+}
